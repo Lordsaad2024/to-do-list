@@ -4,7 +4,6 @@ const tasks = document.getElementById("tasks")
 const btnAll = document.getElementById("all-tasks")
 const btnComplete = document.getElementById("complete-tasks")
 const btnUnComplete = document.getElementById("uncomplete-tasks")
-
 let tasksData = JSON.parse(localStorage.getItem("tasks")) || []
 
 // =====================
