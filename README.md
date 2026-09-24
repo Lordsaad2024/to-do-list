@@ -37,6 +37,7 @@
 2. استخدم نموذج الإضافة لإدخال مهام جديدة.
 
 ---
-<img src="./list.ico" width="500px" height="500px"/>
+### image list
+<img src="./list.ico" width="100px" height="100px"/>
 
 إذا رغبت، أستطيع إضافة ملفي مثال `index.html` و `app.js` أو ملء Local Storage ببعض المهام التجريبية تلقائيًا.
